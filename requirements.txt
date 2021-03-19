@@ -105,7 +105,7 @@ torch==1.5.1+cpu
 torchvision==0.6.1+cpu
 tornado==6.0.4
 traitlets==4.3.3
-Twisted==17.9.0
+Twisted==20.3.0
 tzlocal==2.1
 ufw==0.36
 unattended-upgrades==0.1
